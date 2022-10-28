@@ -1,0 +1,16 @@
+.status-info {
+  margin: 30px;
+  font-size: 1.4rem;
+}
+
+.btndownload
+{
+    background-color: #00a65a;
+    color: white;
+    border: 1px solid #00a65a;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}

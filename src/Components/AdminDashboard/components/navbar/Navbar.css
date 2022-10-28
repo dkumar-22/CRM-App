@@ -1,0 +1,19 @@
+.navbar {
+  background: #ffffff;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 0 30px;
+  border-bottom: 1px solid lightgray;
+}
+
+.logo
+{
+  display: flex;
+}
+
+.logo-name
+{
+  font-weight: 500;
+}
